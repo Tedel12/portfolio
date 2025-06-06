@@ -84,16 +84,16 @@ export const workData = [
         link: 'https://play.google.com/store/apps/details?id=com.wadounou.application&pli=1'
     },
     {
-        title: 'Site web de e-commerce',
+        title: 'Site web de blogging avec administation',
         description: 'business en ligne',
         bgImage: '/work-2.png',
-        link: '#'
+        link: 'https://quick-blog-sand.vercel.app/'
     },
     {
         title: 'site e-learning',
         description: 'pour apprendre à coder',
         bgImage: '/work-3.png',
-        link: 'https://elerningdigitalis.wadounnou.com/'
+        link: 'https://lms-frontend-one-rose.vercel.app/'
     },
     {
         title: 'Site web de e-commerce',
